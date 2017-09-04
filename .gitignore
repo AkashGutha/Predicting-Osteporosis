@@ -1,0 +1,6 @@
+# ignore node specific files
+node_modules
+
+# IDE specific files
+.vscode
+.DS_Store
